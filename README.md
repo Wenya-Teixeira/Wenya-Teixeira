@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Wenya-Teixeira/Wenya-Teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Wenya-Teixeira">
+    <img src="./images/guia.png" alt="Guia de Programação Java" width="160" height="160">
+  </a>
+  <h1 align="center">Guia Extenso de Programação</h1>
+</p>
 
-Here are some ideas to get you started:
+
+## :dart: O guia para alavancar a sua carreira
+
+### Welcome to my GitHub! :grin:
+   
+#### Hello, my name is Wenya, I have a degree in Information Systems and a postgraduate degree in Systems Development with Java, currently I am looking to develop my skills in programming.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
